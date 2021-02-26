@@ -1,0 +1,36 @@
+{
+    "name": "Carbon-API",
+    "description": "Unofficial API for Carbon.now.sh",
+    "keywords": [
+        "carbon",
+        "carbonnowsh",
+        "python",
+        "image",
+        "code",
+        "github",
+        "screenshot",
+        "rest",
+        "get",
+        "post",
+        "json",
+        "api"
+    ],
+    "success_url": "https://t.me/phaticusthiccy",
+    "website": "https://github.com/phaticusthiccy/Carbon-API",
+    "repository": "https://github.com/phaticusthiccy/Carbon-API",
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git"
+        },
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
