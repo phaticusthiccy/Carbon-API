@@ -1,6 +1,6 @@
 {
   "name": "Carbon-API",
-  "version": 1,
+  "version": 2,
   "builds": [
     {
       "src": "*py",
