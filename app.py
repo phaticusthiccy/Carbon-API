@@ -16,9 +16,10 @@ CORS(app)
 
 @app.route('/', methods=['GET', 'POST'])
 def home():
+    from flask import jsonify
     data = None
     if request.method == "POST":
-        data = request.json
+        data = jsonify(**request.json)
         try:
             code = data['code']
         except KeyError:
