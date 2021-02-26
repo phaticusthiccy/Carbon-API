@@ -57,8 +57,9 @@
 Değerler Encoded Şeklinde olmalıdır. Mümkünüse HTML Encoder kullanın.
 
 ```bash
-https://carbonnowsh.herokuapp.com/?code=Phaticusthiccy&theme=darcula&backgroundColor=rgba(144, 19, 254, 100)
+https://thiccyscarbonapi-git-main-phaticusthiccy.vercel.app/?code=Phaticusthiccy&theme=darcula&backgroundColor=rgba(144, 19, 254, 100)
 ```
+
 
 ### POST `/`
 
