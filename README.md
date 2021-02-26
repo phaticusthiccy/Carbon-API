@@ -29,6 +29,29 @@
 | `windowControls`       | `true`                     | boolean | Çerçeve Görüntüsünü Aç/Kapa                                  |
 | `windowTheme`          | `"none"`                   | string  | Çerçeve Teması                                               |
 
+##
+
+## Parametre Değerleri 
+
+| Parametre              | Değerler                       |
+| ---------------------- | -------------------------------|
+| `backgroundColor`      | `"rgba(0, 0, 0, 1)"` ile `"rgba(255, 255, 255, 1)"` arasında olabilir. |
+| `dropShadow`           | `true` veya `false` olabilir.                                 |
+| `dropShadowBlurRadius` | `"10px"` ile `"400px"` arasında olabilir.                     |
+| `dropShadowOffsetY`    | `"1px"` ile `"100px"` arasında olabilir.                      |
+| `exportSize`           | `"1x"` ile `"3x"` arasında olabilir.                          |
+| `fontSize`             | `"Hack"`, `"JetBrains Mono"`, `"Fira Code"`, `"Inconsolata"` vs. |
+| `firstLineNumber`      | Sınırı yoktur.                                                |
+| `language`             | `JavaScript`, `Python`, `C`, `Go`, `Bash`, `Swift` vs.        |
+| `lineNumbers`          | `true` veya `false` olabilir.                                 |
+| `paddingHorizontal`    | `"10px"` ile `"3000px"` arasında olabilir.                    |
+| `paddingVertical`      | `"10px"` ile `"3000px"` arasında olabilir.                    |
+| `theme`                | `seti`, `blackboard`, `panda`, `twilight`, `verminal` vs.     |
+| `watermark`            | `true` veya `false` olabilir.                                 |
+| `widthAdjustment`      | `true` veya `false` olabilir.                                 |
+| `windowControls`       | `true` veya `false` olabilir.                                 |
+| `windowTheme`          | `none`, `sharp` ve `bw` olabilir.                             |
+
 ### GET `/`
 
 Değerler Encoded Şeklinde olmalıdır. Mümkünüse HTML Encoder kullanın.
