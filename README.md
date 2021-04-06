@@ -57,7 +57,7 @@
 Değerler Encoded Şeklinde olmalıdır. Mümkünüse HTML Encoder kullanın.
 
 ```bash
-https://thiccyscarbonapi-git-main-phaticusthiccy.vercel.app/?code=Phaticusthiccy&theme=darcula&backgroundColor=rgba(144, 19, 254, 100)
+https://thiccyscarbonapi.herokuapp.com/?code=Phaticusthiccy&language=Bash&theme=darcula&backgroundColor=rgba(144,%2019,%20254,%20100)&exportSize=3x&paddingVertical=50px&paddingHorizontal=300px
 ```
 
 
