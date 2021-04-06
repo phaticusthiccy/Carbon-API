@@ -59,11 +59,9 @@ Değerler Encoded Şeklinde olmalıdır. Mümkünüse HTML Encoder kullanın.
 ```bash
 https://thiccyscarbonapi.herokuapp.com/?code=Phaticusthiccy&language=Bash&theme=darcula&backgroundColor=rgba(144,%2019,%20254,%20100)&exportSize=3x&paddingVertical=50px&paddingHorizontal=300px
 https://thiccyscarbonapi.herokuapp.com/?code=Phaticusthiccy&language=JavaScript&lineNumbers=true&theme=panda&exportSize=3x&paddingVertical=50px&paddingHorizontal=300px&windowTheme=bw&dropShadowBlurRadius=200px
-
 ```
-[!](https://i.hizliresim.com/KkkTi1.png)
-
-[!](https://i.hizliresim.com/xtPrkl.png)
+<img src="https://i.hizliresim.com/KkkTi1.png"/>
+<img src="https://i.hizliresim.com/xtPrkl.png"/>
 
 ### POST `/`
 
